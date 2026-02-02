@@ -1,0 +1,28 @@
+@import 'tailwindcss';
+/* @import 'utilities';
+@import 'components';  */
+
+
+/* @layer components {
+    .style_inputs {
+        @apply border-2 rounded-md border-gray-400;
+    }
+} */
+
+/* @theme{
+    
+    --border-input: 2;
+    --gap-y-px: 10px;
+
+}  */
+
+.selectores{
+    border-radius: 8px;
+    font-size: 16px;
+    
+}
+
+.selectores:hover{
+    background: rgba(101, 101, 233, 0.250);
+    color: rgb(19, 19, 132);
+}

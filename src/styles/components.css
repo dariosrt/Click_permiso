@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+@import 'components';
+@import 'utilities';
+
+
+
+@layer components {
+    .style_inputs {
+        @apply border-2 rounded-md border-gray-400;
+    }
+}
+
