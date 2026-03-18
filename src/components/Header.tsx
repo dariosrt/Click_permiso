@@ -8,10 +8,10 @@ export const Header = () => {
     <>
 
       <div className='flex justify-between h-[64px] border-2 b'>
-        <img src="src/imgs/logo_alb.png" height={60} />
+        <img src="src/imgs/wmremove-transformed(1).png" height={60} />
         <div className='flex justify-between items-center w-[375px]'>
-          <h1>Ies Albarregas</h1>
-          <p>Hola miserable pila de secretos</p>
+          <h1>Ies</h1>
+          <p>Hola Alumno</p>
         </div>
       </div>
 
